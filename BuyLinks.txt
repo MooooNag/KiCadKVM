@@ -1,0 +1,9 @@
+USB C Connector:
+https://www.mouser.at/ProductDetail/Molex/217175-0001?qs=DRkmTr78QARWJMiqNnldSg%3D%3D
+
+VBUS Beads:
+https://www.mouser.at/ProductDetail/Murata-Electronics/BLM18KG601SH1D?qs=DXqDLUyyb5XOGozqLTtJZQ%3D%3D
+
+Crystal:
+https://www.mouser.at/ProductDetail/ECS/ECS-120-18-4X-CKM?qs=7MVldsJ5Uayqj3jfg9wxgA%3D%3D
+
