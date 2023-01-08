@@ -7,3 +7,8 @@ https://www.mouser.at/ProductDetail/Murata-Electronics/BLM18KG601SH1D?qs=DXqDLUy
 Crystal:
 https://www.mouser.at/ProductDetail/ECS/ECS-120-18-4X-CKM?qs=7MVldsJ5Uayqj3jfg9wxgA%3D%3D
 
+PTCs:
+https://www.mouser.at/ProductDetail/Littelfuse/1206L050YR?qs=PWhpLWeW8wckT8hV5jLiAA%3D%3D
+
+
+
