@@ -11,7 +11,7 @@ Schottky:
 https://www.mouser.at/ProductDetail/ROHM-Semiconductor/RB161MM-20TR?qs=pXoXL5qUNJ0AtQ2ZS1W0NA%3D%3D
 
 USB-C connectors:
-https://www.mouser.at/ProductDetail/GCT/USB4085-GF-A?qs=KUoIvG%2F9Ilba1bQOahfWjw%3D%3D
+https://www.mouser.at/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D
 
 USB-A connectors:
 https://www.mouser.at/ProductDetail/Wurth-Elektronik/61400826021?qs=rS3zZhy2AQNRjP3Vs%2FPxTg%3D%3D
