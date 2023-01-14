@@ -47,7 +47,7 @@
 
   (setup
     (stackup
-      (layer "F.SilkS" (type "Top Silk Screen"))
+      (layer "F.SilkS" (type "Top Silk Screen") (color "Black"))
       (layer "F.Paste" (type "Top Solder Paste"))
       (layer "F.Mask" (type "Top Solder Mask") (thickness 0.01))
       (layer "F.Cu" (type "copper") (thickness 0.035))
