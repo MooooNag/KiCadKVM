@@ -22,3 +22,5 @@ https://www.mouser.at/ProductDetail/Toshiba/SSM3J372RLXHF?qs=pUKx8fyJudCKkSmXsa4
 LED:
 https://www.mouser.at/ProductDetail/Kingbright/APTD2012LSURCK?qs=AQlKX63v8RvkMadNvwbkxw%3D%3D
 
+Ferrite Beads:
+https://www.mouser.at/ProductDetail/Murata-Electronics/BLM18KG601SH1D?qs=DXqDLUyyb5XOGozqLTtJZQ%3D%3D
