@@ -388,6 +388,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/libs/3D/usb_stacked.stp"
+      (offset (xyz 3.5 -7 8))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
@@ -1365,6 +1370,11 @@
       (net 48 "Net-(J2-PadMP1)") (pinfunction "MP4") (pintype "passive") (tstamp 4b65a15c-d69d-4b3e-a5c8-299b8378df87))
     (model "USB4110-GF-A.stp"
       (offset (xyz 0 2.599999866 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
+    (model "${KIPRJMOD}/libs/3D/usb_c.stp"
+      (offset (xyz 0 2.7 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
@@ -2370,6 +2380,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model "${KIPRJMOD}/libs/3D/usb_c.stp"
+      (offset (xyz 0 2.6 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
@@ -3141,6 +3156,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/libs/3D/usb_stacked.stp"
+      (offset (xyz 3.5 -7 8))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
@@ -3623,6 +3643,11 @@
     (pad "2" thru_hole circle (at 4.88 0) (size 1.155 1.155) (drill 0.63) (layers *.Cu *.Mask)
       (net 5 "X2") (pinfunction "2") (pintype "passive") (tstamp 9e74ce58-44c6-460e-8c8b-788e2eba468d))
     (model "ECS-120-18-4X-CKM.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/libs/3D/ECS-120-18-4X-CKM.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
